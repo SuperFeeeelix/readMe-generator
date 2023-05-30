@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/SuperFeeeelix/readMe-generator/issues"
   },
-  "homepage": "https://github.com/SuperFeeeelix/readMe-generator#readme"
+  "homepage": "https://github.com/SuperFeeeelix/readMe-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
 }
