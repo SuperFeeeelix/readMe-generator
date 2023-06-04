@@ -52,8 +52,8 @@ const questions = [{
 ]
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {
-fs.writeToFile(fileName, data, function (err) {
+function writeFile(fileName, data) {
+fs.writeFile(fileName, data, function (err) {
     console.log(fileName)
     console.log(data)
     if (err) {
@@ -70,7 +70,7 @@ function init() {
     inquirer
         .prompt(questions)
         .then(function (data) {
-            writeToFile("README.md", generateMarkdown(data));
+            writeFile("README.md", generateMarkdown(data));
             console.log(data)
         })
 }
