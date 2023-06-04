@@ -1,5 +1,5 @@
-# README-generator
-  by oswaldo obadiah felix thompson
+# readMe-generator
+  by Oswaldo Obadiah Felix Thompson
   ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
   ## Table Of Contents
   * [Description](#description)
@@ -11,21 +11,21 @@
   * [Testing](#testing)
   https://opensource.org/licenses/MIT
   ## Description
-  it is a readme generator that allows the user to create a readme
+  allows the users to create a readme file
   ## Requirements
   inquirer@8.2.4
   ## Usage
-  javascript,nodejs
+  javascript and nodejs
   ## Contact-Me
-  * Name - oswaldo obadiah felix thompson
-  * Email - oswaldo_felix@yahoo.com
+  * Name - Oswaldo Obadiah Felix Thompson
+  * Email - oswaldo_felix@outlook.com
   * Github - [superfeeeelix](https://github.com/superfeeeelix/)
   ## Contributors
   n/a
   ## Testing
   n/a
   ## Questions
-  Please send your questions [here](malito:oswaldo_felix@yahoo.com)
+  Please send your questions [here](malito:oswaldo_felix@outlook.com)
   ## License
       
       Licensed under the MIT license
