@@ -25,9 +25,11 @@ Created a README-md generator using javaScript and Node.js to make the generator
 
 
 https://github.com/SuperFeeeelix/readMe-generator/assets/127154412/6e755539-98e5-4bb9-9fe4-58ffeb364d76
+![Screenshot (1)](https://github.com/SuperFeeeelix/readMe-generator/assets/127154412/7c829ae3-cb33-4134-a8d0-08d2ab6d8941)
 
 
 ## ScreenShot
+
 
 ## Requirements
   inquirer@8.2.4
