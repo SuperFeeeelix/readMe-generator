@@ -14,7 +14,7 @@ read me generator
   https://opensource.org/licenses/MIT
 
 ## Description
-Created a README-md generator using javaScript and Node.js to make the generator fully functional. this generator allows the used to generate a readme document with node by answering the questions in node index.js.
+Created a README-md generator using javaScript and Node.js to make the generator fully functional. this generator allows the user to generate a preoffesional readme document with node by answering the questions in node index.js.
 
  ## Contact-Me
   * Name - Oswaldo Obadiah Felix Thompson
